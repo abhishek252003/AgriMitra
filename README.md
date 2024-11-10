@@ -1,11 +1,9 @@
 # FraudBlock
 
-![GitHub](https://img.shields.io/github/last-commit/yogeshxd/FraudBlock)
+
 
 ### Blockchain based Agri-Food supply chain Solution using QR Codes
 
-## Installation & Demo
-[![FraudBlock](https://cdn.discordapp.com/attachments/768924278967894056/1225486567619956846/image.png?ex=66214e4e&is=660ed94e&hm=b0adbcb9c50d9868794e3bc8d8028e9cc1002a15f5067070d6841a06d71bf6e7&)](https://youtu.be/F01t48jT5wQ)
 
 ## Packages Required:-
 - Truffle v5.6.7 (core: 5.6.7)
@@ -23,8 +21,7 @@
 
 1. Clone the project
 ```
-git clone https://github.com/yogeshxd/ProjectM
-```
+
 2. Extract the `src.zip` and verify that all the files are in the src folder only and not in src/src.
 
 3. Go to the project folder, open terminal there and run following command to install required node_modules:-
